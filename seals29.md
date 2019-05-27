@@ -8,7 +8,7 @@ progress: "false"
 controls: "false"
 revealjs-url: .
 slideNumber: \'c\'
-minScale: 0.3
+minScale: 0.8
 maxScale: 1.3
 navigationMode: \'linear\'
 ---
