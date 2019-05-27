@@ -85,7 +85,7 @@ body {
 
 .reveal strong,
 .reveal b {
-  font-weight: bold; }
+  color: orangered; }
 
 .reveal em {
   font-style: italic; }
