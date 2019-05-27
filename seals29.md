@@ -10,6 +10,8 @@ revealjs-url: .
 slideNumber: \'c\'
 minScale: 0.8
 maxScale: 1.3
+width: 1080
+height: 800
 navigationMode: \'linear\'
 ---
 
@@ -115,7 +117,7 @@ Phonemes not found in Sinitic languages do not appear in Taokas-10 data
 
 - Some words look like non-Matu'uwal Atayal
   - 7 out of a grand total of 195
-  - Some of these might be due to unique changes in T-10
+  - Some of these might be due to unique changes in Taokas-10
 - Loans from Taokas and Saisiyat
   - 15 in total, most with Atayal doublets
 - Some words are of unknown origin or difficult to identify (23 in total)
@@ -160,9 +162,8 @@ Reflexes in Matu'uwal and Squliq as per Li (1981)
 
 ## References
 
-Li, Paul Jen-kuei. 1981. Reconstruction of Proto-Atayalic Phonology. *Bulletin of the Institute of History and Philology*, 52: 235-301. Academia Sinica.
-
-Tsuchida, Shigeru. 1982. A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan Part I: West Taiwan. University of Tokyo.
+- Li, Paul Jen-kuei. 1981. Reconstruction of Proto-Atayalic Phonology. *Bulletin of the Institute of History and Philology*, 52: 235-301. Academia Sinica.
+- Tsuchida, Shigeru. 1982. A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan Part I: West Taiwan. University of Tokyo.
 
 ## Unique lexical items
 
