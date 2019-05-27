@@ -158,9 +158,9 @@ Reflexes in Matu'uwal and Squliq as per Li (1981)
 
 ## References
 
-Tsuchida, Shigeru. 1982. A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan Part I: West Taiwan. University of Tokyo.
-
 Li, Paul Jen-kuei. 1981. Reconstruction of Proto-Atayalic Phonology. *Bulletin of the Institute of History and Philology*, 52: 235-301. Academia Sinica.
+
+Tsuchida, Shigeru. 1982. A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan Part I: West Taiwan. University of Tokyo.
 
 ## Unique lexical items
 
