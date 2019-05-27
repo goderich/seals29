@@ -53,7 +53,7 @@ The six most stable words on the Leipzig-Jakarta list:
 
 - A total of 7 words (out of 195) in T-10 can be linked with Taokas
   - 'mother', 'father', 'cat', 'pig', 'chicken', 'alcohol', 'money'
-- Of these, 5 have Atayal doublets
+- Of these, 6 have Atayal doublets
 
 ## Comparison with Atayal
 
@@ -88,7 +88,7 @@ T-10 preserves vowel contrasts before the head foot
 |-------------|-------------|------------|------------|-----|
 | ts**u**kuli | c**u**quliq | <b style="color:grey">squliq</b> | \*cuquliq    | 'person'   |
 | h**a**pune<b style="color:lime">k</b> | h**a**puniq | <b style="color:grey">puniq</b> | \*hapuniq      | 'fire'     |
-| **i**sutin | **i**sting | <b style="color:grey">(puruh)</b> | -- | 'short' |
+| l**i**namu | r**i**namug | <b style="color:grey">rnamu</b> | \*rinamug | 'roof' |
 
 ## Mergers in Taokas-10
 
@@ -105,7 +105,7 @@ Phonemes not found in Sinitic languages do not appear in Taokas-10 data
 
 | T-10   | Matu'uwal | Squliq                           | Gloss      |
 |--------|-----------|----------------------------------|------------|
-| lanek  | raniq     | <b style="color:grey">tuqi</b>   | 'road'     |
+| <b style="color:aqua">lanek</b>  | <b style="color:aqua">raniq</b>     | <b style="color:grey">tuqi</b>   | 'road'     |
 | takish | takiis    | <b style="color:grey">pucing</b> | 'sword'    |
 | hamhom | hamhum    | <b style="color:grey">yulung</b> | 'cloud'    |
 | maova  | maʔubaʔ   | <b style="color:grey">plqwiʔ</b> | 'white'    |
@@ -124,7 +124,7 @@ Phonemes not found in Sinitic languages do not appear in Taokas-10 data
 
 |        | T-10          | Matu'uwal   | Squliq      | Gloss      |
 |--------|---------------|-------------|-------------|------------|
-| -um-   | h**um**akai   | h**um**akay | h**m**kaniʔ | 'to walk'  |
+| -um-   | h**um**akai   | h**um**akay | <b style="color:grey">h<b style="color:lightcoral">m</b>kaniʔ</b> | 'to walk'  |
 | ma-    | **ma**kilu    | **ma**kilux | **m**kilux  | 'hot'      |
 | i + TEMP | **i**tsasan   | **i** casan | <b style="color:grey">suxan</b>       | 'tomorrow' |
 
@@ -144,10 +144,10 @@ Phonemes not found in Sinitic languages do not appear in Taokas-10 data
 
 Proto-Atayal \*ɹ is reflected as /h/ in Taokas-10<br>word-initially before /a/
 
-|            | T-10       | Matu'uwal     | Squliq     | P-Atayal    |
-|------------|------------|---------------|------------|-------------|
-| 'housefly' | **h**angli | (**w**)angriʔ | **z**ngliʔ | \*ɹaŋ[rl]iʔ |
-| 'shoes'    | **h**amin  | (**w**)amil   | **y**amil  | \*ɹamil     |
+| T-10       | Matu'uwal     | Squliq     | P-Atayal    | Gloss      |
+|------------|---------------|------------|-------------|------------|
+| **h**angli | (**w**)angriʔ | **z**ngliʔ | \*ɹaŋ[rl]iʔ | 'housefly' |
+| **h**amin  | (**w**)amil   | **y**amil  | \*ɹamil     | 'shoes'    |
 Reflexes in Matu'uwal and Squliq as per Li (1981)
 
 ## Conclusion
@@ -155,6 +155,8 @@ Reflexes in Matu'uwal and Squliq as per Li (1981)
 - "Taokas-10" is an Atayal dialect<br>(at least 80% Atayal lexicon)
 - Closely related to, but distinct from, Matu'uwal<br>(~35% words have unique correspondences with Matu'uwal)
 - Unique features in phonology and lexicon<br>(\*ɹ > h /#_a)
+
+## Mahuway cimu kahabaag!
 
 ## References
 
@@ -171,3 +173,28 @@ Possible unique male register items
 | watsihun  | balihun   | 'door' |
 | kach'uwin | qacuʔ     | 'boat' |
 /c~l/ is also seen in *lumiq*/*cumiq* 'louse'
+
+## Doublet examples
+
+| T-10   | Taokas-3-2b | T-10 doublet | Matu'uwal | Gloss     |
+|--------|-------------|--------------|-----------|-----------|
+| kwakwa | kwakwar     | wauwa        | bawwak    | 'pig'     |
+| linlin | lilin       | havangan     | habangan  | 'money'   |
+| yakau  | yakau       | kuwau        | quwaw     | 'alcohol' |
+
+## Reflexes of *ɹ in T-10<br>before u
+
+| T-10   | Matu'uwal | Squliq | Proto-Atayal | Gloss    |
+|--------|-----------|--------|----------|----------|
+| **y**ungai | ungay     | yungay | \*ɹuŋay   | 'monkey' |
+| **y**utek  | utiq      | <b style="color:grey">(rhzyal)</b> | \*ɹutiq?         | 'earth'  |
+
+## Phrases in T-10
+
+T-10 *avankiavoaila* 'flower'
+
+|      |       |       |     |
+|------|-------|-------|-----|
+| abag | kiya  | buay  | la  |
+| leaf | EXIST | fruit | ASP |
+
