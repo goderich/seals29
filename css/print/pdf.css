@@ -160,5 +160,6 @@ ul, ol, div, p {
 .reveal .slide-number-pdf {
 	display: block;
 	position: absolute;
-	font-size: 14px;
+    left: 95%;
+	font-size: 20px;
 }
