@@ -445,11 +445,11 @@ body {
 .reveal .slide-number {
   position: absolute;
   display: block;
-  left: 95%;
+  right: 3%;
   bottom: 8px;
   z-index: 31;
   font-family: Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 24pt;
   line-height: 1.6;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.4);
