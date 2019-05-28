@@ -621,7 +621,7 @@
         // Display a presentation progress bar
         progress: false,
         // Display the page number of the current slide
-        slideNumber: 'c',
+        slideNumber: function() { /* Don’t show the first slide number */ var slideNum = [Reveal.getIndices().h + 1]; if (slideNum.toString() == [1]) { return [""]; } else {return slideNum; } },
         // Push each slide change to the browser history
         history: true,
         // Transition style

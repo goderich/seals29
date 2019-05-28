@@ -7,7 +7,15 @@ transition: none
 progress: "false"
 controls: "false"
 revealjs-url: .
-slideNumber: \'c\'
+slideNumber: |
+    function() {
+    /* Don't show the first slide number */
+      var slideNum = [Reveal.getIndices().h + 1];
+      if (slideNum.toString() == [1])
+        { return [""]; }
+      else
+        { return slideNum; }
+    }
 minScale: 0.3
 maxScale: 1.5
 width: 1080
