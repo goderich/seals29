@@ -621,11 +621,9 @@
         // Display a presentation progress bar
         progress: false,
         // Display the page number of the current slide
-        slideNumber: function() { /* Don’t show the first slide number */ var slideNum = [Reveal.getIndices().h + 1]; if (slideNum.toString() == [1]) { return [""]; } else {return slideNum; } },
+        slideNumber: function() { /* Don’t show the first slide number */ var slideNum = [Reveal.getIndices().h + 1]; if (slideNum.toString() == [1]) { return [""]; } else { return slideNum; } },
         // Push each slide change to the browser history
         history: true,
-        // Transition style
-        transition: 'none', // none/fade/slide/convex/concave/zoom
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.

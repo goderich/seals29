@@ -3,7 +3,6 @@ title: Taokas-10 revisited:<br>Taokas or Atayal?
 subtitle: SEALS-29, Tokyo, 27-29 May 2019
 author: Andre Goderich 郭育賢<br>National Tsinghua University<br>yuhsien77@gmail.com<br>**goderich.github.io/seals29**
 mainfont: DejaVu Sans
-transition: none
 progress: "false"
 controls: "false"
 revealjs-url: .
